@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "407913488373",
+    "firebase_url": "https://nativestructure-47a55-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nativestructure-47a55",
+    "storage_bucket": "nativestructure-47a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407913488373:android:13a7818b15c18407d2cabc",
+        "android_client_info": {
+          "package_name": "com.projectstructure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGYKa6_EhiLqO5wx826y1ueszgW9b2dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
